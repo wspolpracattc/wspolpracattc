@@ -794,7 +794,7 @@ a {
   margin-bottom: 2rem;
 }
 .cid-senMaXjNx5 .card-wrapper {
-  background-color: #ffffff;
+  background-color: #000000;
   border-radius: 4px;
 }
 .cid-senMaXjNx5 .image-wrapper img {
@@ -840,6 +840,16 @@ a {
     padding-left: 2rem;
     padding-right: 4rem;
   }
+}
+.cid-senMaXjNx5 .card-title {
+  color: #e9ff00;
+}
+.cid-senMaXjNx5 .card-subtitle {
+  color: #e9ff00;
+}
+.cid-senMaXjNx5 .mbr-text,
+.cid-senMaXjNx5 .social-row {
+  color: #e9ff00;
 }
 .cid-semlEVuAmy {
   z-index: 1000;
